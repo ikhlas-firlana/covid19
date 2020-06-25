@@ -1,0 +1,2252 @@
+{
+    "last_date": "2020-06-23",
+    "current_data": 100,
+    "missing_data": 0,
+    "tanpa_provinsi": 0,
+    "list_data": [
+        {
+            "key": "DKI JAKARTA",
+            "doc_count": 21.40053449139803,
+            "jumlah_kasus": 10250,
+            "jumlah_sembuh": 5228,
+            "jumlah_meninggal": 594,
+            "jumlah_dirawat": 4428,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 5062
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 4677
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 133,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 404,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 2078,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 2725,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 2631,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 1571,
+                    "usia": {
+                        "value": 92
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 106.83611829006928,
+                "lat": -6.204698991169558
+            }
+        },
+        {
+            "key": "JAWA TIMUR",
+            "doc_count": 21.11867379321864,
+            "jumlah_kasus": 10115,
+            "jumlah_sembuh": 2915,
+            "jumlah_meninggal": 741,
+            "jumlah_dirawat": 6459,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 5033
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 4904
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 161,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 481,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 1653,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 2689,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 3072,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 1707,
+                    "usia": {
+                        "value": 96
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 112.73294137529294,
+                "lat": -7.72334557860008
+            }
+        },
+        {
+            "key": "SULAWESI SELATAN",
+            "doc_count": 8.480875229664273,
+            "jumlah_kasus": 4062,
+            "jumlah_sembuh": 1363,
+            "jumlah_meninggal": 146,
+            "jumlah_dirawat": 2553,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 1924
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 2069
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 105,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 243,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 1033,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 1275,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 812,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 404,
+                    "usia": {
+                        "value": 98
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 120.16205590507643,
+                "lat": -3.7310807143894262
+            }
+        },
+        {
+            "key": "JAWA BARAT",
+            "doc_count": 6.056873225321531,
+            "jumlah_kasus": 2901,
+            "jumlah_sembuh": 1317,
+            "jumlah_meninggal": 171,
+            "jumlah_dirawat": 1413,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 1447
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 1436
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 44,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 104,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 561,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 910,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 798,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 323,
+                    "usia": {
+                        "value": 96
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 107.60370834146391,
+                "lat": -6.920432082789247
+            }
+        },
+        {
+            "key": "JAWA TENGAH",
+            "doc_count": 5.775012527142141,
+            "jumlah_kasus": 2766,
+            "jumlah_sembuh": 1020,
+            "jumlah_meninggal": 148,
+            "jumlah_dirawat": 1598,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 1564
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 1197
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 72,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 164,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 544,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 812,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 703,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 413,
+                    "usia": {
+                        "value": 93
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 110.20111493755839,
+                "lat": -7.259097176704969
+            }
+        },
+        {
+            "key": "KALIMANTAN SELATAN",
+            "doc_count": 5.605896108234508,
+            "jumlah_kasus": 2685,
+            "jumlah_sembuh": 433,
+            "jumlah_meninggal": 167,
+            "jumlah_dirawat": 2085,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 1417
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 1208
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 61,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 176,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 525,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 833,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 754,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 326,
+                    "usia": {
+                        "value": 91
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 115.43857828622947,
+                "lat": -2.993594978837896
+            }
+        },
+        {
+            "key": "SUMATERA SELATAN",
+            "doc_count": 3.872974778687156,
+            "jumlah_kasus": 1855,
+            "jumlah_sembuh": 816,
+            "jumlah_meninggal": 72,
+            "jumlah_dirawat": 967,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 903
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 934
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 158,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 107,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 451,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 488,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 322,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 210,
+                    "usia": {
+                        "value": 85
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 104.16946472724611,
+                "lat": -3.216211808074814
+            }
+        },
+        {
+            "key": "PAPUA",
+            "doc_count": 3.1213462502087856,
+            "jumlah_kasus": 1495,
+            "jumlah_sembuh": 297,
+            "jumlah_meninggal": 7,
+            "jumlah_dirawat": 1191,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 855
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 621
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 28,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 117,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 471,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 479,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 309,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 65,
+                    "usia": {
+                        "value": 85
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 138.69602998221484,
+                "lat": -4.666209529820138
+            }
+        },
+        {
+            "key": "BANTEN",
+            "doc_count": 2.8666276933355603,
+            "jumlah_kasus": 1373,
+            "jumlah_sembuh": 583,
+            "jumlah_meninggal": 79,
+            "jumlah_dirawat": 711,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 685
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 685
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 25,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 58,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 289,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 411,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 365,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 162,
+                    "usia": {
+                        "value": 87
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 106.10900433346703,
+                "lat": -6.45673638769843
+            }
+        },
+        {
+            "key": "SUMATERA UTARA",
+            "doc_count": 2.5722398530148656,
+            "jumlah_kasus": 1232,
+            "jumlah_sembuh": 266,
+            "jumlah_meninggal": 76,
+            "jumlah_dirawat": 890,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 600
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 601
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 18,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 58,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 259,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 351,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 318,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 178,
+                    "usia": {
+                        "value": 90
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 99.05196442214273,
+                "lat": 2.1918944531362854
+            }
+        },
+        {
+            "key": "BALI",
+            "doc_count": 2.330048438282946,
+            "jumlah_kasus": 1116,
+            "jumlah_sembuh": 639,
+            "jumlah_meninggal": 9,
+            "jumlah_dirawat": 468,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 614
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 497
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 26,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 64,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 347,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 340,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 225,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 100,
+                    "usia": {
+                        "value": 90
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 115.13171361168976,
+                "lat": -8.369471688211744
+            }
+        },
+        {
+            "key": "NUSA TENGGARA BARAT",
+            "doc_count": 2.2569734424586603,
+            "jumlah_kasus": 1081,
+            "jumlah_sembuh": 742,
+            "jumlah_meninggal": 45,
+            "jumlah_dirawat": 294,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 615
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 465
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 57,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 62,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 249,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 349,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 225,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 128,
+                    "usia": {
+                        "value": 88
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 117.50862565333749,
+                "lat": -8.606998865706263
+            }
+        },
+        {
+            "key": "SULAWESI UTARA",
+            "doc_count": 1.7976448972774344,
+            "jumlah_kasus": 861,
+            "jumlah_sembuh": 147,
+            "jumlah_meninggal": 69,
+            "jumlah_dirawat": 645,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 443
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 412
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 17,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 68,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 176,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 251,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 199,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 128,
+                    "usia": {
+                        "value": 87
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 124.52123964154268,
+                "lat": 1.25963821247857
+            }
+        },
+        {
+            "key": "KALIMANTAN TENGAH",
+            "doc_count": 1.6619341907466179,
+            "jumlah_kasus": 796,
+            "jumlah_sembuh": 306,
+            "jumlah_meninggal": 50,
+            "jumlah_dirawat": 440,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 438
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 333
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 12,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 68,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 175,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 252,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 217,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 67,
+                    "usia": {
+                        "value": 92
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 113.41765363593119,
+                "lat": -1.6024846527267131
+            }
+        },
+        {
+            "key": "SUMATERA BARAT",
+            "doc_count": 1.4865542007683312,
+            "jumlah_kasus": 712,
+            "jumlah_sembuh": 525,
+            "jumlah_meninggal": 30,
+            "jumlah_dirawat": 157,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 299
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 339
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 22,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 59,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 140,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 168,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 146,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 80,
+                    "usia": {
+                        "value": 90
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 100.46506235673566,
+                "lat": -0.850253225078247
+            }
+        },
+        {
+            "key": "MALUKU",
+            "doc_count": 1.3237013529313513,
+            "jumlah_kasus": 634,
+            "jumlah_sembuh": 168,
+            "jumlah_meninggal": 13,
+            "jumlah_dirawat": 453,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 273
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 357
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 7,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 36,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 191,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 239,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 101,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 49,
+                    "usia": {
+                        "value": 84
+                    }
+                }
+            ],
+            "lokasi": {
+                "lat": -3.192572,
+                "lon": 129.576792
+            }
+        },
+        {
+            "key": "MALUKU UTARA",
+            "doc_count": 0.9708535159512277,
+            "jumlah_kasus": 465,
+            "jumlah_sembuh": 82,
+            "jumlah_meninggal": 26,
+            "jumlah_dirawat": 357,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 244
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 136
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 4,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 18,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 108,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 108,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 86,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 31,
+                    "usia": {
+                        "value": 77
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 127.53910724599248,
+                "lat": 0.21203694908578316
+            }
+        },
+        {
+            "key": "KALIMANTAN TIMUR",
+            "doc_count": 0.9332720895273091,
+            "jumlah_kasus": 447,
+            "jumlah_sembuh": 324,
+            "jumlah_meninggal": 5,
+            "jumlah_dirawat": 118,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 360
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 72
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 4,
+                    "usia": {
+                        "value": 3
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 24,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 115,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 160,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 95,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 27,
+                    "usia": {
+                        "value": 74
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 116.46844046560851,
+                "lat": 0.4538580295500849
+            }
+        },
+        {
+            "key": "SULAWESI TENGGARA",
+            "doc_count": 0.7015199599131452,
+            "jumlah_kasus": 336,
+            "jumlah_sembuh": 218,
+            "jumlah_meninggal": 5,
+            "jumlah_dirawat": 113,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 192
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 142
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 10,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 38,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 87,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 137,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 44,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 19,
+                    "usia": {
+                        "value": 75
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 122.07031100195121,
+                "lat": -4.124688793498832
+            }
+        },
+        {
+            "key": "KALIMANTAN BARAT",
+            "doc_count": 0.6534992483714714,
+            "jumlah_kasus": 313,
+            "jumlah_sembuh": 223,
+            "jumlah_meninggal": 4,
+            "jumlah_dirawat": 86,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 183
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 117
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 10,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 6,
+                    "usia": {
+                        "value": 16
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 79,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 103,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 64,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 36,
+                    "usia": {
+                        "value": 82
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 111.12117763730221,
+                "lat": -0.08647457175645347
+            }
+        },
+        {
+            "key": "DAERAH ISTIMEWA YOGYAKARTA",
+            "doc_count": 0.6075663938533489,
+            "jumlah_kasus": 291,
+            "jumlah_sembuh": 238,
+            "jumlah_meninggal": 8,
+            "jumlah_dirawat": 45,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 193
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 98
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 4,
+                    "usia": {
+                        "value": 3
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 15,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 57,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 90,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 85,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 39,
+                    "usia": {
+                        "value": 80
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 110.44487831193419,
+                "lat": -7.894501850215696
+            }
+        },
+        {
+            "key": "KEPULAUAN RIAU",
+            "doc_count": 0.5866878236178387,
+            "jumlah_kasus": 281,
+            "jumlah_sembuh": 193,
+            "jumlah_meninggal": 16,
+            "jumlah_dirawat": 72,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 165
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 116
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 12,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 27,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 54,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 91,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 81,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 16,
+                    "usia": {
+                        "value": 90
+                    }
+                }
+            ],
+            "lokasi": {
+                "lat": 3.916346,
+                "lon": 108.261746
+            }
+        },
+        {
+            "key": "GORONTALO",
+            "doc_count": 0.4822949724402873,
+            "jumlah_kasus": 231,
+            "jumlah_sembuh": 142,
+            "jumlah_meninggal": 8,
+            "jumlah_dirawat": 81,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 105
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 126
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 6,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 17,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 95,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 54,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 45,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 14,
+                    "usia": {
+                        "value": 77
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 122.37605812253207,
+                "lat": 0.687002604326393
+            }
+        },
+        {
+            "key": "PAPUA BARAT",
+            "doc_count": 0.46767997327543015,
+            "jumlah_kasus": 224,
+            "jumlah_sembuh": 129,
+            "jumlah_meninggal": 3,
+            "jumlah_dirawat": 92,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 132
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 87
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 5,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 23,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 60,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 60,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 48,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 13,
+                    "usia": {
+                        "value": 80
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 132.9762624116817,
+                "lat": -2.045160182312363
+            }
+        },
+        {
+            "key": "RIAU",
+            "doc_count": 0.40295640554534823,
+            "jumlah_kasus": 193,
+            "jumlah_sembuh": 117,
+            "jumlah_meninggal": 9,
+            "jumlah_dirawat": 67,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 114
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 79
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 5,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 23,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 44,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 67,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 30,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 23,
+                    "usia": {
+                        "value": 86
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 101.80510917866684,
+                "lat": 0.5116478513723942
+            }
+        },
+        {
+            "key": "LAMPUNG",
+            "doc_count": 0.3779021212627359,
+            "jumlah_kasus": 181,
+            "jumlah_sembuh": 128,
+            "jumlah_meninggal": 12,
+            "jumlah_dirawat": 41,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 120
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 61
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 6,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 14,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 41,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 54,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 35,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 22,
+                    "usia": {
+                        "value": 80
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 105.0214365998642,
+                "lat": -4.916792974850312
+            }
+        },
+        {
+            "key": "SULAWESI TENGAH",
+            "doc_count": 0.3737264072156339,
+            "jumlah_kasus": 179,
+            "jumlah_sembuh": 140,
+            "jumlah_meninggal": 4,
+            "jumlah_dirawat": 35,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 128
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 51
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 3,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 13,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 50,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 53,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 49,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 11,
+                    "usia": {
+                        "value": 67
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 121.20109267528304,
+                "lat": -1.0041366797829747
+            }
+        },
+        {
+            "key": "KALIMANTAN UTARA",
+            "doc_count": 0.36955069316853184,
+            "jumlah_kasus": 177,
+            "jumlah_sembuh": 149,
+            "jumlah_meninggal": 2,
+            "jumlah_dirawat": 26,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 128
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 49
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 2,
+                    "usia": {
+                        "value": 3
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 26,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 34,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 65,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 34,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 16,
+                    "usia": {
+                        "value": 79
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 116.2188791390853,
+                "lat": 2.8910126208140725
+            }
+        },
+        {
+            "key": "KEPULAUAN BANGKA BELITUNG",
+            "doc_count": 0.309002839485552,
+            "jumlah_kasus": 148,
+            "jumlah_sembuh": 117,
+            "jumlah_meninggal": 2,
+            "jumlah_dirawat": 29,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 117
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 31
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 1,
+                    "usia": {
+                        "value": 3
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 14,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 28,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 73,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 21,
+                    "usia": {
+                        "value": 58
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 6,
+                    "usia": {
+                        "value": 73
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 106.54993237860324,
+                "lat": -2.4474441268980818
+            }
+        },
+        {
+            "key": "BENGKULU",
+            "doc_count": 0.2463671287790212,
+            "jumlah_kasus": 118,
+            "jumlah_sembuh": 72,
+            "jumlah_meninggal": 9,
+            "jumlah_dirawat": 37,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 66
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 46
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 2,
+                    "usia": {
+                        "value": 1
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 9,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 18,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 46,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 29,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 8,
+                    "usia": {
+                        "value": 80
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 102.33842134883429,
+                "lat": -3.5335836266267204
+            }
+        },
+        {
+            "key": "JAMBI",
+            "doc_count": 0.2380157006848171,
+            "jumlah_kasus": 114,
+            "jumlah_sembuh": 66,
+            "jumlah_meninggal": 0,
+            "jumlah_dirawat": 48,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 70
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 44
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 1,
+                    "usia": {
+                        "value": 5
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 15,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 22,
+                    "usia": {
+                        "value": 29
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 27,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 36,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 12,
+                    "usia": {
+                        "value": 70
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 102.72364042732815,
+                "lat": -1.6976976604117253
+            }
+        },
+        {
+            "key": "NUSA TENGGARA TIMUR",
+            "doc_count": 0.23175212961416403,
+            "jumlah_kasus": 111,
+            "jumlah_sembuh": 40,
+            "jumlah_meninggal": 1,
+            "jumlah_dirawat": 70,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 67
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 44
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 2,
+                    "usia": {
+                        "value": 3
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 19,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 39,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 25,
+                    "usia": {
+                        "value": 44
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 17,
+                    "usia": {
+                        "value": 55
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 7,
+                    "usia": {
+                        "value": 80
+                    }
+                }
+            ],
+            "lokasi": {
+                "lat": -8.682205,
+                "lon": 121.592271
+            }
+        },
+        {
+            "key": "SULAWESI BARAT",
+            "doc_count": 0.21713713044930685,
+            "jumlah_kasus": 104,
+            "jumlah_sembuh": 78,
+            "jumlah_meninggal": 2,
+            "jumlah_dirawat": 24,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 55
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 49
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 1,
+                    "usia": {
+                        "value": 0
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 19,
+                    "usia": {
+                        "value": 17
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 34,
+                    "usia": {
+                        "value": 30
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 21,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 22,
+                    "usia": {
+                        "value": 59
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 7,
+                    "usia": {
+                        "value": 78
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 119.34501936431505,
+                "lat": -2.4617460526098855
+            }
+        },
+        {
+            "key": "ACEH",
+            "doc_count": 0.10230499415400034,
+            "jumlah_kasus": 49,
+            "jumlah_sembuh": 20,
+            "jumlah_meninggal": 2,
+            "jumlah_dirawat": 27,
+            "jenis_kelamin": [
+                {
+                    "key": "LAKI-LAKI",
+                    "doc_count": 28
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 16
+                }
+            ],
+            "kelompok_umur": [
+                {
+                    "key": "0-5",
+                    "doc_count": 2,
+                    "usia": {
+                        "value": 4
+                    }
+                },
+                {
+                    "key": "6-17",
+                    "doc_count": 7,
+                    "usia": {
+                        "value": 16
+                    }
+                },
+                {
+                    "key": "18-30",
+                    "doc_count": 12,
+                    "usia": {
+                        "value": 29
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 15,
+                    "usia": {
+                        "value": 45
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 7,
+                    "usia": {
+                        "value": 54
+                    }
+                },
+                {
+                    "key": "≥ 60",
+                    "doc_count": 6,
+                    "usia": {
+                        "value": 66
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 96.9105217406655,
+                "lat": 4.225614627700759
+            }
+        }
+    ]
+}
